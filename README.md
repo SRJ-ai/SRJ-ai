@@ -45,13 +45,14 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="stats.svg" alt="SRJ-ai GitHub Stats" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="streak.svg" alt="SRJ-ai GitHub Streak" />
+  <img src="stats.svg" alt="SRJ-ai GitHub Stats" width="49%"/>
+  <img src="streak.svg" alt="SRJ-ai GitHub Streak" width="49%"/>
 </div>
 
 <br/>
