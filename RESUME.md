@@ -101,6 +101,32 @@ Currently working under the guidance of Dr. P. Ranga Babu (Associate Professor, 
 * **Top Performer 🌟**, NPTEL Introduction to IoT.
 
 ---
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Animated Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SRJ-ai&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="stats.svg" alt="SRJ-ai GitHub Stats" width="49%"/>
+  <img src="streak.svg" alt="SRJ-ai GitHub Streak" width="49%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="top-langs.svg" alt="Top Languages" />
+</div>
+
+---
 <div align="center">
   <i>Open to opportunities in Machine Learning, Computer Vision, and Edge AI.</i>
 </div>
