@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/assets/developer3d.gif" width="200" alt="3D Animated Developer" />
+</div>
+
 # Sreeram Jagadeeshwar
 
 <div align="center">

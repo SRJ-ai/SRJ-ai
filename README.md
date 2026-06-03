@@ -45,7 +45,7 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Animated Contribution Graph" />
 </div>
 
 <br/>
