@@ -190,15 +190,14 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <!-- Live GitHub Stats & Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRJ-ai&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=60a5fa&text_color=a3a3a3" alt="SRJ-ai GitHub Stats" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=algolia&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60a5fa&currStreakLabel=3B82F6" alt="SRJ-ai GitHub Streak" width="49%"/>
+  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="Metrics" />
 </div>
 
 <br/>
 
 <!-- Live Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRJ-ai&theme=algolia&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=a3a3a3&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=algolia&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60a5fa&currStreakLabel=3B82F6" alt="SRJ-ai GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
