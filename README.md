@@ -51,6 +51,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SRJ-ai&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="stats.svg" alt="SRJ-ai GitHub Stats" width="49%"/>
   <img src="streak.svg" alt="SRJ-ai GitHub Streak" width="49%"/>
 </div>
