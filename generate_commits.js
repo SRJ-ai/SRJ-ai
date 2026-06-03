@@ -1,8 +1,8 @@
 const fs = require('fs');
 const { execSync } = require('child_process');
 
-const START_DATE = new Date('2022-08-23T12:00:00Z');
-const END_DATE = new Date('2026-06-03T12:00:00Z');
+const START_DATE = new Date('2022-01-01T12:00:00Z');
+const END_DATE = new Date('2022-08-22T12:00:00Z');
 const COMMITS_PER_DAY = 70;
 const AUTHOR_NAME = 'srj';
 const AUTHOR_EMAIL = '111846916+SRJ-ai@users.noreply.github.com';

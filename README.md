@@ -181,16 +181,16 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <br/>
 
-<!-- Activity Graph -->
+<!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRJ-ai&bg_color=0D1117&color=3B82F6&line=60a5fa&point=ffffff&area_color=3B82F6&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br/>
 
-<!-- Live GitHub Stats & Streak -->
+<!-- Live GitHub Stats, Achievements & Streak -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="Advanced Metrics and Achievements" width="100%" />
 </div>
 
 <br/>
