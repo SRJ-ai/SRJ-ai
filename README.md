@@ -51,20 +51,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SRJ-ai&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SRJ-ai&theme=radical&no-frame=true&row=1&column=7&margin-w=15&v=1M" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="stats.svg" alt="SRJ-ai GitHub Stats" width="49%"/>
-  <img src="streak.svg" alt="SRJ-ai GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SRJ-ai&theme=radical&show_icons=true&hide_border=true&count_private=true&v=1M" alt="SRJ-ai GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=radical&hide_border=true&v=1M" alt="SRJ-ai GitHub Streak" width="49%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="top-langs.svg" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRJ-ai&theme=radical&layout=compact&hide_border=true&v=1M" alt="Top Languages" />
 </div>
 
 ---
