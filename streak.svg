@@ -1,0 +1,27 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a3a3a3; }
+    .num { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .highlight { fill: #3B82F6; }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#0D1117" stroke="#3B82F6" stroke-width="1"/>
+  <text x="25" y="35" class="header">GitHub Streak</text>
+  
+  <g transform="translate(60, 100)">
+    <text x="0" y="0" class="num" text-anchor="middle">480</text>
+    <text x="0" y="25" class="stat" text-anchor="middle">Total Contributions</text>
+    <text x="0" y="45" class="stat" font-size="12" text-anchor="middle">Jan 1 - Present</text>
+  </g>
+  
+  <g transform="translate(247, 100)">
+    <circle cx="0" cy="-10" r="40" fill="none" stroke="#3B82F6" stroke-width="4" stroke-dasharray="250" stroke-dashoffset="50"/>
+    <text x="0" y="0" class="num highlight" text-anchor="middle">42</text>
+    <text x="0" y="45" class="stat" font-size="12" text-anchor="middle">Current Streak (days)</text>
+  </g>
+  
+  <g transform="translate(435, 100)">
+    <text x="0" y="0" class="num" text-anchor="middle">64</text>
+    <text x="0" y="25" class="stat" text-anchor="middle">Longest Streak</text>
+  </g>
+</svg>

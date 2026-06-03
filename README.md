@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+SRJ-ai+👋;I+build+highly+scalable+web+applications;I+specialize+in+React,+Node,+%26+Supabase;Turning+ideas+into+beautiful+UI%2FUX!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+SRJ-ai+👋;I+build+highly+scalable+web+applications;I+specialize+in+React,+Node,+%26+Supabase;Turning+ideas+into+beautiful+UI%2FUX!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -44,19 +44,19 @@
 *(Updated to use highly reliable stat renderers!)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRJ-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=3B82F6&title_color=ffffff&text_color=a3a3a3" alt="SRJ-ai GitHub Stats" />
+  <img src="stats.svg" alt="SRJ-ai GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff" alt="SRJ-ai GitHub Streak" />
+  <img src="streak.svg" alt="SRJ-ai GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRJ-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=a3a3a3" alt="Top Languages" />
+  <img src="top-langs.svg" alt="Top Languages" />
 </div>
 
 ---

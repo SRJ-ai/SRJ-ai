@@ -1,0 +1,34 @@
+<svg width="300" height="195" viewBox="0 0 300 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a3a3a3; }
+  </style>
+  <rect width="300" height="195" rx="4.5" fill="#0D1117" stroke="#3B82F6" stroke-width="1"/>
+  <text x="25" y="35" class="header">Most Used Languages</text>
+  
+  <g transform="translate(25, 60)">
+    <!-- TypeScript -->
+    <circle cx="5" cy="0" r="5" fill="#3178c6"/>
+    <text x="20" y="5" class="stat">TypeScript</text>
+    <text x="220" y="5" class="stat" style="fill:#ffffff">68.2%</text>
+    <rect x="20" y="15" width="230" height="6" rx="3" fill="#3178c6" opacity="0.8"/>
+    
+    <!-- React -->
+    <circle cx="5" cy="40" r="5" fill="#61DAFB"/>
+    <text x="20" y="45" class="stat">React (TSX)</text>
+    <text x="220" y="45" class="stat" style="fill:#ffffff">20.5%</text>
+    <rect x="20" y="55" width="70" height="6" rx="3" fill="#61DAFB" opacity="0.8"/>
+    
+    <!-- PLpgSQL -->
+    <circle cx="5" cy="80" r="5" fill="#336791"/>
+    <text x="20" y="85" class="stat">PLpgSQL</text>
+    <text x="220" y="85" class="stat" style="fill:#ffffff">8.1%</text>
+    <rect x="20" y="95" width="30" height="6" rx="3" fill="#336791" opacity="0.8"/>
+    
+    <!-- CSS -->
+    <circle cx="5" cy="120" r="5" fill="#563d7c"/>
+    <text x="20" y="125" class="stat">CSS</text>
+    <text x="220" y="125" class="stat" style="fill:#ffffff">3.2%</text>
+    <rect x="20" y="135" width="10" height="6" rx="3" fill="#563d7c" opacity="0.8"/>
+  </g>
+</svg>
