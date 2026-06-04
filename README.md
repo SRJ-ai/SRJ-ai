@@ -44,7 +44,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
@@ -65,7 +65,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 - 💬 Ask me about **Deep Learning, Medical AI, Edge Deployment, or Embedded IoT**
 - ⚡ Fun fact: I can optimize a TensorFlow model to run on a **₹3,500 Raspberry Pi** 🤖
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🛠️ Tech Stack & Arsenal
 
@@ -108,8 +108,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+---
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -169,7 +168,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 `Python` `OpenCV` `MediaPipe` `Computer Vision` `HCI`
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 📈 GitHub Analytics
 
@@ -200,10 +199,10 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <!-- Live Top Languages -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=algolia&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60a5fa&currStreakLabel=3B82F6" alt="SRJ-ai GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60a5fa&currStreakLabel=3B82F6" alt="SRJ-ai GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🎖️ Achievements & Recognition
 
@@ -222,7 +221,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ## 🤝 Let's Connect
 
@@ -246,7 +245,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
 
 <br/>
 
