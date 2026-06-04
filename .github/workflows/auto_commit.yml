@@ -15,15 +15,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Make a daily change
+      - name: Make daily changes
         run: |
           mkdir -p dummy_code
-          echo "Daily activity check: $(date)" >> dummy_code/activity_log.txt
-
-      - name: Commit and Push changes
-        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dummy_code/activity_log.txt
-          git commit -m "chore: automated daily activity check" || echo "No changes to commit"
-          git push
+          
+          # Generate ~40 commits
+          for i in {1..40}
+          do
+            echo "Daily activity check: $(date) - commit $i" >> dummy_code/activity_log.txt
+            git add dummy_code/activity_log.txt
+            git commit -m "chore: automated daily activity check ($i/40)" || true
+          done
+
+      - name: Push changes
+        run: git push
