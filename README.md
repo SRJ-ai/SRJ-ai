@@ -25,11 +25,14 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:sreeram.jagadeeshwar@gmail.com">
+  <a href="mailto:mywaysrj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://linkedin.com/in/jagadeeshwar-sreeram">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://srj-ai.github.io/sreeram-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_Portfolio-1e3a5f?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="RESUME.md">
     <img src="https://img.shields.io/badge/📄_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
@@ -48,7 +51,7 @@
 ```yaml
 name: Sreeram Jagadeeshwar
 title: AI/ML Engineer & Deep Learning Researcher
-location: Kurnool, Andhra Pradesh, India
+location: Hyderabad, India
 education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 ```
 
@@ -111,8 +114,8 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <div align="center">
 
-<a href="https://github.com/SRJ-ai/SRJ-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRJ-ai&repo=SRJ-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" alt="SRJ-ai" />
+<a href="https://github.com/SRJ-ai/sreeram-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SRJ-ai&repo=sreeram-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" alt="sreeram-portfolio" />
 </a>
 
 </div>
@@ -225,7 +228,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <div align="center">
 
-<a href="mailto:sreeram.jagadeeshwar@gmail.com">
+<a href="mailto:mywaysrj@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35" alt="Email"/>
 </a>
 &nbsp;
