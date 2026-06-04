@@ -15,7 +15,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: SRJ-ai
           template: classic
           base: header, activity
@@ -33,4 +33,6 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_habits: no
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
