@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sreeram+Jagadeeshwar+👋;AI%2FML+Engineer+%26+Deep+Learning+Researcher;Specializing+in+Computer+Vision+%26+Edge+AI;Passionate+about+Explainable+AI+(XAI)+%26+IoT;Building+AI+for+Healthcare+%26+Industry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sreeram+Jagadeeshwar+;AI%2FML+Engineer+%26+Deep+Learning+Researcher;Specializing+in+Computer+Vision+%26+Edge+AI;Passionate+about+Explainable+AI+(XAI)+%26+IoT;Building+AI+for+Healthcare+%26+Industry" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -32,10 +32,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://srj-ai.github.io/sreeram-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_View_Portfolio-1e3a5f?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/_View_Portfolio-1e3a5f?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="RESUME.md">
-    <img src="https://img.shields.io/badge/📄_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
   </a>
   <a href="https://github.com/SRJ-ai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
+## About Me
 
 ```yaml
 name: Sreeram Jagadeeshwar
@@ -55,26 +55,26 @@ location: Hyderabad, India
 education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 ```
 
-- 🔭 I'm currently working on **Medical Image Analysis** at **IIITDM Kurnool**
-- 🧠 Specializing in **Computer Vision**, **Explainable AI (XAI)**, and **Edge AI Deployment**
-- 🔬 Research areas: **Chest X-Ray Classification**, **Ocular Disease Diagnosis**, **Oral Cancer Detection**
-- ⚙️ Experienced in deploying AI models on **Raspberry Pi** & building **IoT systems** with ESP32/STM32
-- 🏆 Secured **₹80,000 innovation funding** through PALS-QTPL Industry Innovation Program
-- 📝 Published researcher in **IoT-based Industrial Communication Systems**
-- 🎓 **IEEE YESIST** International Project Showcase **Global Finalist**
-- 💬 Ask me about **Deep Learning, Medical AI, Edge Deployment, or Embedded IoT**
-- ⚡ Fun fact: I can optimize a TensorFlow model to run on a **₹3,500 Raspberry Pi** 🤖
+-  I'm currently working on **Medical Image Analysis** at **IIITDM Kurnool**
+-  Specializing in **Computer Vision**, **Explainable AI (XAI)**, and **Edge AI Deployment**
+-  Research areas: **Chest X-Ray Classification**, **Ocular Disease Diagnosis**, **Oral Cancer Detection**
+-  Experienced in deploying AI models on **Raspberry Pi** & building **IoT systems** with ESP32/STM32
+-  Secured **₹80,000 innovation funding** through PALS-QTPL Industry Innovation Program
+-  Published researcher in **IoT-based Industrial Communication Systems**
+-  **IEEE YESIST** International Project Showcase **Global Finalist**
+-  Ask me about **Deep Learning, Medical AI, Edge Deployment, or Embedded IoT**
+-  Fun fact: I can optimize a TensorFlow model to run on a **₹3,500 Raspberry Pi** 
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+##  Tech Stack & Arsenal
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 <img src="https://skillicons.dev/icons?i=python,c,matlab&theme=dark" alt="Languages" />
 
-### 🤖 AI / ML / Deep Learning
+###  AI / ML / Deep Learning
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=dark" alt="AI ML" />
 
 <br/>
@@ -83,7 +83,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 <img src="https://img.shields.io/badge/Explainable_AI-3B82F6?style=for-the-badge&logo=databricks&logoColor=white" alt="XAI"/>
 <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
 
-### 🔧 Embedded Systems & IoT
+###  Embedded Systems & IoT
 <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Embedded" />
 
 <br/>
@@ -92,10 +92,10 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 <img src="https://img.shields.io/badge/NodeMCU-1B9E5B?style=for-the-badge&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
 
-### 🌐 Web & Deployment
+###  Web & Deployment
 <img src="https://skillicons.dev/icons?i=flask,react,nodejs,html,css,docker&theme=dark" alt="Web" />
 
-### 🛠 Tools & Platforms
+###  Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" />
 
 </div>
@@ -109,7 +109,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 </div>
 
 ---
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -122,7 +122,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 <br/>
 
 <details>
-<summary><b>🦷 Oral Cancer Detection using Deep Learning</b></summary>
+<summary><b> Oral Cancer Detection using Deep Learning</b></summary>
 <br/>
 
 > Architected classification pipelines leveraging **VGG19**, **MobileNetV2**, and state-of-the-art **Vision Transformers (ViT)**. Integrated transfer learning, advanced hyperparameter optimization, and custom attention mechanisms. Validated clinical efficacy using ROC-AUC curves, F1-scores, confusion matrices, and Grad-CAM spatial visualizations.
@@ -131,7 +131,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 </details>
 
 <details>
-<summary><b>🫁 Chest X-Ray Disease Classification (97.57% Accuracy)</b></summary>
+<summary><b> Chest X-Ray Disease Classification (97.57% Accuracy)</b></summary>
 <br/>
 
 > Developed a **4-class classification framework** (COVID-19, Pneumonia, Tuberculosis, Normal) utilizing Wavelet Denoising, Xception architecture, and CBAM Attention. Achieved **97.57% accuracy** and **Macro F1: 0.9697**, optimized for edge deployment on **Raspberry Pi** via TensorFlow Lite.
@@ -140,7 +140,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 </details>
 
 <details>
-<summary><b>👁️ Explainable Ocular Disease Diagnosis (91.6% Accuracy)</b></summary>
+<summary><b> Explainable Ocular Disease Diagnosis (91.6% Accuracy)</b></summary>
 <br/>
 
 > Engineered an Explainable AI (XAI) framework for ocular disease classification utilizing **EfficientNet-B3** integrated with **Grad-CAM**, **SHAP**, and **LIME**. Attained **91.6% accuracy** while generating clinically interpretable visual explanations.
@@ -149,18 +149,18 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 </details>
 
 <details>
-<summary><b>🏭 PALS-QTPL Real-Time Digital Notice Board — ₹80,000 Funded</b></summary>
+<summary><b> PALS-QTPL Real-Time Digital Notice Board — ₹80,000 Funded</b></summary>
 <br/>
 
 > **₹80,000 innovation grant** supported by PALS, IIT Madras & IIT Hyderabad. Built an ESP8266-based industrial comms platform with MQTT & Flask. Slashed deployment costs by **>80%** vs commercial signage. Achieved **sub-250ms latency** with **>72 hours** uninterrupted operation. Published in **IJFMR**.
 >
-> 📄 *DOI: [10.36948/IJFMR.2026.V08I02.74943](https://doi.org/10.36948/IJFMR.2026.V08I02.74943)*
+>  *DOI: [10.36948/IJFMR.2026.V08I02.74943](https://doi.org/10.36948/IJFMR.2026.V08I02.74943)*
 
 `ESP8266` `MQTT` `Flask` `P10 LED` `IoT` `Published Research`
 </details>
 
 <details>
-<summary><b>✋ Gesture-Controlled Virtual Mouse</b></summary>
+<summary><b> Gesture-Controlled Virtual Mouse</b></summary>
 <br/>
 
 > Created a highly responsive touchless human-computer interaction (HCI) interface using **OpenCV**. Implemented real-time image processing to accurately translate complex hand gestures into precise cursor movements and click events.
@@ -170,7 +170,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <!-- Snake Contribution Animation -->
 <div align="center">
@@ -204,26 +204,26 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 ---
 
-## 🎖️ Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
 
-| 🏆 Achievement | 📋 Details |
+|  Achievement |  Details |
 |:---|:---|
-| 🥇 **Innovation Grant** | Secured **₹80,000** through PALS-QTPL Industry Innovation Program |
-| 🌍 **IEEE YESIST Global Finalist** | Selected for International Project Showcase |
-| 📝 **Published Researcher** | Peer-reviewed publication in IJFMR |
-| 🏅 **IEEE MTT-S Secretary** | Managing technical seminars & workshops |
-| 🥇 **State Level Winner** | First Prize at Anokha Idea Presentation |
-| 🥈 **Symposium Runner-Up** | "Recent Technologies: IoT and Its Uses" |
-| ⭐ **NPTEL Top Performer** | Introduction to Internet of Things |
-| 📜 **Microchip Certified** | Embedded System Developer Certification |
+|  **Innovation Grant** | Secured **₹80,000** through PALS-QTPL Industry Innovation Program |
+|  **IEEE YESIST Global Finalist** | Selected for International Project Showcase |
+|  **Published Researcher** | Peer-reviewed publication in IJFMR |
+|  **IEEE MTT-S Secretary** | Managing technical seminars & workshops |
+|  **State Level Winner** | First Prize at Anokha Idea Presentation |
+|  **Symposium Runner-Up** | "Recent Technologies: IoT and Its Uses" |
+|  **NPTEL Top Performer** | Introduction to Internet of Things |
+|  **Microchip Certified** | Embedded System Developer Certification |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -240,7 +240,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 </a>
 &nbsp;
 <a href="RESUME.md">
-  <img src="https://img.shields.io/badge/📄_Full_Resume-3B82F6?style=for-the-badge&labelColor=1e3a5f" height="35" alt="Resume"/>
+  <img src="https://img.shields.io/badge/Full_Resume-3B82F6?style=for-the-badge&labelColor=1e3a5f" height="35" alt="Resume"/>
 </a>
 
 <br/><br/>
@@ -249,11 +249,11 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <br/>
 
-<i>💡 Open to opportunities in <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Medical AI</b>, and <b>Edge AI</b>.</i>
+<i> Open to opportunities in <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Medical AI</b>, and <b>Edge AI</b>.</i>
 
 <br/>
 
-⭐ **If you find my work interesting, consider giving a star!** ⭐
+ **If you find my work interesting, consider giving a star!** 
 
 </div>
 
