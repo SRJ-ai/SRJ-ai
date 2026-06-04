@@ -113,10 +113,7 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <div align="center">
 
-<a href="https://srj-ai.github.io/sreeram-portfolio/">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SRJ-ai&repo=sreeram-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=a3a3a3" alt="sreeram-portfolio" />
-</a>
-
+<a href="https://srj-ai.github.io/sreeram-portfolio/"><strong>View Live Portfolio: sreeram-portfolio</strong></a>
 </div>
 
 <br/>
