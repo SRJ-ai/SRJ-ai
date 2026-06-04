@@ -13,10 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=SRJ-ai&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
   </a>
   &nbsp;
-  <a href="https://github.com/SRJ-ai?tab=followers">
-    <img src="https://img.shields.io/github/followers/SRJ-ai?label=Followers&style=for-the-badge&color=3B82F6&labelColor=1e3a5f" alt="GitHub Followers" />
-  </a>
-  &nbsp;
   <a href="https://github.com/SRJ-ai?tab=stars">
     <img src="https://img.shields.io/github/stars/SRJ-ai?label=Stars&style=for-the-badge&color=3B82F6&labelColor=1e3a5f" alt="GitHub Stars" />
   </a>
