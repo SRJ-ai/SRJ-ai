@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   # Only re-run on pushes that change this workflow. A broad `push: main`
-  # trigger would loop forever, because the action commits the rendered SVGs
+  # trigger would loop forever, because the action commits the rendered SVG
   # back to main using METRICS_TOKEN, which re-triggers the workflow.
   push:
     branches:
@@ -24,26 +24,15 @@ jobs:
     timeout-minutes: 20
     permissions:
       contents: write
-    strategy:
-      # Both variants commit to the same branch, so never run them in parallel.
-      max-parallel: 1
-      fail-fast: false
-      matrix:
-        include:
-          - theme: light
-            filename: github-metrics.svg
-          - theme: dark
-            filename: github-metrics-dark.svg
     steps:
-      - name: Generate metrics (${{ matrix.theme }})
+      - name: Generate metrics
         # Pinned: `@latest` is a moving tag and can break the profile silently.
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SRJ-ai
           template: classic
-          filename: ${{ matrix.filename }}
-          config_theme: ${{ matrix.theme }}
+          filename: github-metrics.svg
           config_timezone: Asia/Kolkata
           config_display: large
           config_animations: yes
@@ -53,7 +42,7 @@ jobs:
           # three five-minute retries.
           retries: 2
           retries_delay: 30
-          committer_message: "chore(metrics): update ${{ matrix.filename }}"
+          committer_message: "chore(metrics): update github-metrics.svg"
 
           base: header, activity, community, repositories
 
