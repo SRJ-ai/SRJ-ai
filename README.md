@@ -185,7 +185,11 @@ education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
 
 <!-- Live GitHub Stats, Achievements & Streak -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="Advanced Metrics and Achievements" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" />
+    <img alt="Advanced Metrics and Achievements" src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
