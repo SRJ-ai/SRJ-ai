@@ -1,257 +1,112 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3B82F6,100:60a5fa&height=220&section=header&text=Sreeram%20Jagadeeshwar&fontSize=52&fontAlignY=35&fontColor=ffffff&desc=AI/ML%20Engineer%20•%20Deep%20Learning%20Researcher%20•%20Edge%20AI%20Specialist&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" />
-</div>
+# Sreeram Jagadeeshwar
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sreeram+Jagadeeshwar+;AI%2FML+Engineer+%26+Deep+Learning+Researcher;Specializing+in+Computer+Vision+%26+Edge+AI;Passionate+about+Explainable+AI+(XAI)+%26+IoT;Building+AI+for+Healthcare+%26+Industry" alt="Typing SVG" />
-</div>
+**Product engineer.** I build across disciplines — desktop apps, CLI tools, web products, embedded
+systems and applied ML — and I care most about the part where it actually ships and someone uses it.
 
-<br/>
+Most of what's here started as something I wanted to exist. A medicine price comparator because the
+same salt costs a fraction under another brand. A repo scanner because I was tired of opening five
+files to understand a project. A desktop companion because Pomodoro timers are boring.
 
-<div align="center">
-  <a href="https://github.com/SRJ-ai">
-    <img src="https://komarev.com/ghpvc/?username=SRJ-ai&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/SRJ-ai?tab=stars">
-    <img src="https://img.shields.io/github/stars/SRJ-ai?label=Stars&style=for-the-badge&color=3B82F6&labelColor=1e3a5f" alt="GitHub Stars" />
-  </a>
-</div>
+Final-year B.Tech ECE at G. Pulla Reddy Engineering College, Kurnool. Medical image analysis at
+IIITDM Kurnool under Dr. P. Ranga Babu.
 
-<br/>
-
-<div align="center">
-  <a href="mailto:mywaysrj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/jagadeeshwar-sreeram">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://srj-ai.github.io/sreeram-portfolio/">
-    <img src="https://img.shields.io/badge/_View_Portfolio-1e3a5f?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="RESUME.md">
-    <img src="https://img.shields.io/badge/_View_Resume-3B82F6?style=for-the-badge&logoColor=white" alt="Resume Badge"/>
-  </a>
-  <a href="https://github.com/SRJ-ai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-</div>
-
-<br/>
+[Portfolio](https://srj-ai.github.io/sreeram-portfolio/) · [Resume](RESUME.md) · [LinkedIn](https://linkedin.com/in/jagadeeshwar-sreeram) · <mywaysrj@gmail.com>
 
 ---
 
-## About Me
+## What I'm building
 
-```yaml
-name: Sreeram Jagadeeshwar
-title: AI/ML Engineer & Deep Learning Researcher
-location: Hyderabad, India
-education: B.Tech in ECE @ G. Pulla Reddy Engineering College (CGPA: 8.23)
-```
+### [dawasaver](https://github.com/SRJ-ai/dawasaver) · [live](https://srj-ai.github.io/dawasaver/)
+Same salt, lower price. Type a brand name and get same-composition alternatives ranked by **real
+per-unit** price — a strip of 10 compared honestly against a strip of 15. Covers 230,000+ Indian
+products across 12,000+ salt groups, Jan Aushadhi generics included, with typo-tolerant search
+(`crocn` → Crocin).
 
--  I'm currently working on **Medical Image Analysis** at **IIITDM Kurnool**
--  Specializing in **Computer Vision**, **Explainable AI (XAI)**, and **Edge AI Deployment**
--  Research areas: **Chest X-Ray Classification**, **Ocular Disease Diagnosis**, **Oral Cancer Detection**
--  Experienced in deploying AI models on **Raspberry Pi** & building **IoT systems** with ESP32/STM32
--  Secured **₹80,000 innovation funding** through PALS-QTPL Industry Innovation Program
--  Published researcher in **IoT-based Industrial Communication Systems**
--  **IEEE YESIST** International Project Showcase **Global Finalist**
--  Ask me about **Deep Learning, Medical AI, Edge Deployment, or Embedded IoT**
--  Fun fact: I can optimize a TensorFlow model to run on a **₹3,500 Raspberry Pi** 
+### [gatemind](https://github.com/SRJ-ai/gatemind)
+Autonomous exam-strategy agent. One sentence in — *"GATE CSE in 45 days, 4 hours/day, weak in TOC
+and OS"* — and a complete study plan out, scheduled against the Ebbinghaus forgetting curve and
+rebuilt when you fall behind. Other tools tell you what to study; this one decides what matters.
 
----
+### [repoglance](https://github.com/SRJ-ai/repoglance)
+One terminal command, instant insight into any repository: languages, complexity hotspots, TODOs
+and git activity. Python.
 
-##  Tech Stack & Arsenal
+### [pixelpaw-ai](https://github.com/SRJ-ai/pixelpaw-ai)
+An original pixel-art desktop companion for Windows. Reacts to your cursor and typing, runs
+Pomodoros, nudges you to drink water, and celebrates when your coding agent finishes.
+Tauri v2 + React + TypeScript.
 
-<div align="center">
+### [makesurenew](https://github.com/SRJ-ai/makesurenew) · [live](https://srj-ai.github.io/makesurenew/)
+Repository health dashboard. Scores your GitHub repos 0–100 against best practices and shows
+exactly what's broken, instead of you checking every project by hand.
 
-###  Languages
-<img src="https://skillicons.dev/icons?i=python,c,matlab&theme=dark" alt="Languages" />
-
-###  AI / ML / Deep Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&theme=dark" alt="AI ML" />
-
-<br/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/Vision_Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ViT"/>
-<img src="https://img.shields.io/badge/Explainable_AI-3B82F6?style=for-the-badge&logo=databricks&logoColor=white" alt="XAI"/>
-<img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite"/>
-
-###  Embedded Systems & IoT
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Embedded" />
-
-<br/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-<img src="https://img.shields.io/badge/NodeMCU-1B9E5B?style=for-the-badge&logo=nodemcu&logoColor=white" alt="NodeMCU"/>
-
-###  Web & Deployment
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs,html,css,docker&theme=dark" alt="Web" />
-
-###  Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**Domains:** `Deep Learning` · `Vision Transformers (ViT)` · `Explainable AI (Grad-CAM, SHAP, LIME)` · `Medical AI` · `Edge Deployment (TFLite)` · `Embedded Systems` · `IoT (MQTT, NodeMCU)` · `Computer Vision` · `Transfer Learning`
-
-</div>
-
----
-##  Featured Projects
-
-<div align="center">
-
-<a href="https://srj-ai.github.io/sreeram-portfolio/"><strong>View Live Portfolio: sreeram-portfolio</strong></a>
-</div>
-
-<br/>
-
-<details>
-<summary><b> Oral Cancer Detection using Deep Learning</b></summary>
-<br/>
-
-> Architected classification pipelines leveraging **VGG19**, **MobileNetV2**, and state-of-the-art **Vision Transformers (ViT)**. Integrated transfer learning, advanced hyperparameter optimization, and custom attention mechanisms. Validated clinical efficacy using ROC-AUC curves, F1-scores, confusion matrices, and Grad-CAM spatial visualizations.
-
-`Python` `TensorFlow` `Vision Transformers` `Grad-CAM` `Transfer Learning`
-</details>
-
-<details>
-<summary><b> Chest X-Ray Disease Classification (97.57% Accuracy)</b></summary>
-<br/>
-
-> Developed a **4-class classification framework** (COVID-19, Pneumonia, Tuberculosis, Normal) utilizing Wavelet Denoising, Xception architecture, and CBAM Attention. Achieved **97.57% accuracy** and **Macro F1: 0.9697**, optimized for edge deployment on **Raspberry Pi** via TensorFlow Lite.
-
-`Python` `TensorFlow Lite` `Xception` `CBAM` `Raspberry Pi` `Edge AI`
-</details>
-
-<details>
-<summary><b> Explainable Ocular Disease Diagnosis (91.6% Accuracy)</b></summary>
-<br/>
-
-> Engineered an Explainable AI (XAI) framework for ocular disease classification utilizing **EfficientNet-B3** integrated with **Grad-CAM**, **SHAP**, and **LIME**. Attained **91.6% accuracy** while generating clinically interpretable visual explanations.
-
-`Python` `EfficientNet-B3` `Grad-CAM` `SHAP` `LIME` `XAI`
-</details>
-
-<details>
-<summary><b> PALS-QTPL Real-Time Digital Notice Board — ₹80,000 Funded</b></summary>
-<br/>
-
-> **₹80,000 innovation grant** supported by PALS, IIT Madras & IIT Hyderabad. Built an ESP8266-based industrial comms platform with MQTT & Flask. Slashed deployment costs by **>80%** vs commercial signage. Achieved **sub-250ms latency** with **>72 hours** uninterrupted operation. Published in **IJFMR**.
->
->  *DOI: [10.36948/IJFMR.2026.V08I02.74943](https://doi.org/10.36948/IJFMR.2026.V08I02.74943)*
-
-`ESP8266` `MQTT` `Flask` `P10 LED` `IoT` `Published Research`
-</details>
-
-<details>
-<summary><b> Gesture-Controlled Virtual Mouse</b></summary>
-<br/>
-
-> Created a highly responsive touchless human-computer interaction (HCI) interface using **OpenCV**. Implemented real-time image processing to accurately translate complex hand gestures into precise cursor movements and click events.
-
-`Python` `OpenCV` `MediaPipe` `Computer Vision` `HCI`
-</details>
+### [parcelpilot](https://github.com/SRJ-ai/parcelpilot)
+AI support agent for a B2B logistics product, serving two user contexts — customer and internal —
+over one shared, access-controlled tool layer. FastAPI + Docker.
 
 ---
 
-##  GitHub Analytics
+## Also shipped
 
-<!-- Snake Contribution Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- 3D Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<!-- Live GitHub Stats, Achievements & Streak -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="Advanced Metrics and Achievements" width="100%" />
-</div>
-
-<br/>
-
-<!-- Live Top Languages -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SRJ-ai&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60a5fa&currStreakLabel=3B82F6" alt="SRJ-ai GitHub Streak" />
-</div>
-
----
-
-##  Achievements & Recognition
-
-<div align="center">
-
-|  Achievement |  Details |
+| Project | What it is |
 |:---|:---|
-|  **Innovation Grant** | Secured **₹80,000** through PALS-QTPL Industry Innovation Program |
-|  **IEEE YESIST Global Finalist** | Selected for International Project Showcase |
-|  **Published Researcher** | Peer-reviewed publication in IJFMR |
-|  **IEEE MTT-S Secretary** | Managing technical seminars & workshops |
-|  **State Level Winner** | First Prize at Anokha Idea Presentation |
-|  **Symposium Runner-Up** | "Recent Technologies: IoT and Its Uses" |
-|  **NPTEL Top Performer** | Introduction to Internet of Things |
-|  **Microchip Certified** | Embedded System Developer Certification |
-
-</div>
+| [canteen-ordering-system](https://github.com/SRJ-ai/canteen-ordering-system) | QR table ordering, kitchen display and admin console for a campus food court. Next.js 14, Supabase with row-level security. |
+| [satwika-organics](https://github.com/SRJ-ai/satwika-organics) | Multi-role organics marketplace — separate customer, vendor and admin surfaces. |
+| [varnasolar](https://github.com/SRJ-ai/varnasolar) | Solar company site rebuilt in React + Vite, custom theme, 15+ routes, automated E2E suite. |
+| [maybrook-homes](https://github.com/SRJ-ai/maybrook-homes) | Homebuilder marketing site. Next.js App Router, Playwright and Lighthouse CI. |
+| [zolo-hostel-app](https://github.com/SRJ-ai/zolo-hostel-app) | Hostel management — Supabase auth, resident dashboard, setup flow. |
+| [modern-auth-system](https://github.com/SRJ-ai/modern-auth-system) | Full-stack auth: bcrypt, sessions, SQLite, automated login-notification email. No frontend framework. |
+| [expense-tracker-cli](https://github.com/SRJ-ai/expense-tracker-cli) | SQLite-backed expense tracker with hand-written SQL, budgets, tags and reports. |
+| [solar_model](https://github.com/SRJ-ai/solar_model) | Solar panel fault detection with Telegram and WhatsApp alerting. |
 
 ---
 
-##  Let's Connect
+## Research & embedded
+
+Medical imaging and edge deployment, at IIITDM Kurnool and before it.
+
+- **Chest X-ray, 4-class** (COVID-19 / pneumonia / tuberculosis / normal) — wavelet denoising,
+  Xception, CBAM attention. 97.57% accuracy, macro F1 0.9697, quantised to TFLite for Raspberry Pi.
+- **Ocular disease, explainable** — EfficientNet-B3 with Grad-CAM, SHAP and LIME. 91.6% accuracy
+  with clinically readable explanations. Browser version: [ocular-ai](https://github.com/SRJ-ai/ocular-ai).
+- **Oral cancer detection** — VGG19, MobileNetV2 and Vision Transformers, with transfer learning
+  and custom attention.
+- **Real-time LED notice board** — ESP8266, MQTT and Flask driving P10 panels. Sub-250 ms latency,
+  72+ hours uninterrupted, >80% cheaper than commercial signage. **₹80,000 innovation grant** from
+  PALS (IIT Madras and IIT Hyderabad); published in IJFMR,
+  [DOI 10.36948/IJFMR.2026.V08I02.74943](https://doi.org/10.36948/IJFMR.2026.V08I02.74943).
+- **Touchless HCI** — MediaPipe hand-gesture media control on Jetson Nano.
+
+---
+
+## Stack
+
+| | |
+|:---|:---|
+| **Languages** | Python · TypeScript · JavaScript · Java · C · C++ · Kotlin · MATLAB |
+| **Web** | Next.js · React · Vite · Tailwind · FastAPI · Flask · Node |
+| **Data** | PostgreSQL / Supabase · SQLite |
+| **ML** | TensorFlow · PyTorch · Keras · OpenCV · MediaPipe · TFLite · TensorFlow.js |
+| **Embedded** | ESP32 · ESP8266 · STM32 · Raspberry Pi · Jetson Nano · MQTT |
+| **Tooling** | Docker · GitHub Actions · Playwright · Linux · Git |
+
+---
+
+## Recognition
+
+- **Global Finalist** — IEEE YESIST International Project Showcase
+- **₹80,000 innovation grant** — PALS-QTPL Industry Innovation Program
+- **Published** — peer-reviewed paper in IJFMR
+- **Secretary** — IEEE MTT-S student chapter
+- **First prize** — Anokha state-level idea presentation
+- **Top performer** — NPTEL Introduction to Internet of Things
+- **Certified Embedded System Developer** — Microchip
+
+---
+
+## Activity
 
 <div align="center">
-
-<a href="mailto:mywaysrj@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/jagadeeshwar-sreeram">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/SRJ-ai">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="RESUME.md">
-  <img src="https://img.shields.io/badge/Full_Resume-3B82F6?style=for-the-badge&labelColor=1e3a5f" height="35" alt="Resume"/>
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
-
-<br/>
-
-<i> Open to opportunities in <b>Machine Learning</b>, <b>Computer Vision</b>, <b>Medical AI</b>, and <b>Edge AI</b>.</i>
-
-<br/>
-
- **If you find my work interesting, consider giving a star!** 
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3B82F6,100:60a5fa&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/SRJ-ai/SRJ-ai/main/github-metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
